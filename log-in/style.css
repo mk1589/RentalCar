@@ -131,7 +131,23 @@ label input{
 }
 .forgot{
     color: #ffff;
+    text-align: center;
+
     text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.85em;
+    text-decoration: none;
+}
+.singup{
+    color: #ffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.85em;
+    text-decoration: none;
+}
+p{
+    color: #ffff;
+    text-align: center;
     letter-spacing: 1px;
     font-size: 0.85em;
     text-decoration: none;
